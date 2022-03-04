@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShlomoVolosky, and here I´ll upload some code projects.
+- 👀 I’m interested in the Python World, Machine Learning & Data Science
+- 🌱 I’m currently learning Neural Networks, App Dev, Web App Dev, More Python, Machine Learning, etc..
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me, well it{s simple, just reach out to me, here or by LinkedIn https://www.linkedin.com/in/shlomovolosky/
